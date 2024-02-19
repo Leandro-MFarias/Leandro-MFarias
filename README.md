@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Leandro Marinaci😁
 <div>
   <p>👨‍🎓Estou cursando Análise e Desenvolvimento de Sistemas</p>
-  <p>👨‍💻Me especializando em Desenvolvimento Web fazendo um curso no DevQuest Fullstack</p>
+  <p>👨‍💻Me especializando em Desenvolvimento Web cursando DevQuest Fullstack</p>
 </div>
 
 <div>
